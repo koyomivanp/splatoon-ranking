@@ -15,7 +15,7 @@ from datetime import datetime, timezone, timedelta
 SITE_URL = "https://splatoon-ranking.netlify.app/"
 SITE_NAME = "スプラ最強武器ランキング"
 OUT_DIR = "dist"
-GOOGLE_SITE_VERIFICATION = "FJrCI2mYIdZN3QdLWKjJ1"
+GOOGLE_SITE_VERIFICATION = "FJrCl2mYIdZN3QdLWKjJ1UNoF-k0AtZzDougkqPzowU"
 
 RULE_ORDER = ["overall", "area", "yagura", "hoko", "asari"]
 
