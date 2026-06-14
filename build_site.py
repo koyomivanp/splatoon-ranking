@@ -15,6 +15,7 @@ from datetime import datetime, timezone, timedelta
 SITE_URL = "https://splatoon-ranking.netlify.app/"
 SITE_NAME = "スプラ最強武器ランキング"
 OUT_DIR = "dist"
+GOOGLE_SITE_VERIFICATION = "FJrCI2mYIdZN3QdLWKjJ1"
 
 RULE_ORDER = ["overall", "area", "yagura", "hoko", "asari"]
 
@@ -44,6 +45,12 @@ def jst(iso: str) -> str:
 
 def esc(s) -> str:
     return html.escape(str(s))
+
+
+def google_verify_meta() -> str:
+    if not GOOGLE_SITE_VERIFICATION:
+        return ""
+    return f'<meta name="google-site-verification" content="{esc(GOOGLE_SITE_VERIFICATION)}">\n'
 
 
 def delta_html(delta):
@@ -677,7 +684,7 @@ def build(data: dict) -> str:
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{google_verify_meta()}<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{SITE_NAME}｜Xマッチ・バンカラの勝率で毎日更新【スプラ3】</title>
 <meta name="description" content="{esc(description)}">
 <meta name="keywords" content="スプラ 最強武器,スプラ ブキ 勝率,スプラ tier,スプラトゥーン3 武器 ランキング,スプラ3 最強,バンカラ Xマッチ">
@@ -979,7 +986,7 @@ def render_weapon_page(name, info, data, patch_weapons, tips, all_weapons, topla
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{google_verify_meta()}<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{esc(name)}の勝率・tier【スプラ3 最強武器ランキング】</title>
 <meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{page_url}">
@@ -1152,7 +1159,7 @@ def render_shindan(all_weapons, shindan_content=None):
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{google_verify_meta()}<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>スプラ 戦闘タイプ診断｜あなたに合う最強ブキは？【スプラ3】</title>
 <meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{page_url}">
@@ -1240,7 +1247,7 @@ def _guide_page(title, desc, filename, body):
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{google_verify_meta()}<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{esc(title)}｜{SITE_NAME}</title>
 <meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{page_url}">
@@ -1428,7 +1435,7 @@ def render_tierlist(ranking, data):
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{google_verify_meta()}<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>スプラ3 最強武器tier表【{esc(season_label)}・毎日更新】</title>
 <meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{page_url}">
