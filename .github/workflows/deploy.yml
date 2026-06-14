@@ -1,0 +1,41 @@
+name: Update ranking site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # 毎日 0:30 JST (= 15:30 UTC 前日)
+    - cron: "30 15 * * *"
+  workflow_dispatch:
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch stat.ink ranking
+        run: python fetch_ranking.py
+
+      - name: Fetch X borders (sendou.ink)
+        run: python fetch_x_border.py
+
+      - name: Build static site
+        run: python build_site.py
+
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v3.0
+        with:
+          publish-dir: "./dist"
+          production-branch: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: "auto: ranking + X border update"
+          enable-pull-request-comment: false
+          enable-commit-comment: false
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}

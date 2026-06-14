@@ -1,0 +1,47 @@
+{
+  "_note": "Gemini要約対象のYouTube URL一覧。weapon_hint に stat.ink表記を書くと精度UP（空でも可）。done:true でスキップ。",
+  "videos": [
+    {
+      "url": "https://youtu.be/01cQ700HyGI?si=9tN4bhR-x0EogIHw"
+    },
+    {
+      "url": "https://youtu.be/yENa-VvbPkU?si=Fucn3KOJTG3HGLBi"
+    },
+    {
+      "url": "https://youtu.be/UeoRNTCFrX4?si=y56Z0KQI34FI4pSy"
+    },
+    {
+      "url": "https://youtu.be/hRReJuSX0og?si=6niTa6XN_jwSlCW6"
+    },
+    {
+      "url": "https://youtu.be/Kjca77U3pjc?si=qgW2sQbcheLK6b86"
+    },
+    {
+      "url": "https://youtu.be/F1eJRq7xaBk?si=3Ov4k4diUFfDI0x0"
+    },
+    {
+      "url": "https://youtu.be/WdiRE1PpUM4?si=eERKBDIjQv_0TxS0"
+    },
+    {
+      "url": "https://youtu.be/oFLEWAN2BWM?si=4XrK9CXh8eLkpSf8"
+    },
+    {
+      "url": "https://youtu.be/cIKbFDrFl3M?si=dG7BgEZBT0k0iGac"
+    },
+    {
+      "url": "https://youtu.be/CD1RjpB_qmg?si=GghcizgK8rT9dgX0"
+    },
+    {
+      "url": "https://youtu.be/efpz0EtfY3g?si=Z0k_BOMkjr1JZcF9"
+    },
+    {
+      "url": "https://youtu.be/Ukn_3UOJilE?si=7DEY-RneBZZRBD33"
+    },
+    {
+      "url": "https://youtu.be/sP05ttu67GA?si=g9w1HRLiNxM7eT3b"
+    },
+    {
+      "url": "https://youtu.be/d8XOfG-SbNk?si=EaC_L5gMwSJ6OAbu"
+    }
+  ]
+}

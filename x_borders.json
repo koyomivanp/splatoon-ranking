@@ -1,0 +1,63 @@
+{
+  "updated_at": "2026-06-14T22:16:19.546466+09:00",
+  "season": 16,
+  "year": 2026,
+  "month": 6,
+  "region": "JP",
+  "source": "sendou.ink",
+  "source_note": "Xマッチ TOP500 掲載データ。500位未満の場合は掲載最下位を目安ボーダーとして表示。",
+  "rules": [
+    {
+      "mode": "SZ",
+      "label": "ガチエリア",
+      "region": "JP",
+      "source_url": "https://sendou.ink/xsearch?month=6&year=2026&mode=SZ&region=JP",
+      "stats": {
+        "top1_x_power": 3436.7,
+        "top1_rank": 1,
+        "border_rank": 499,
+        "border_x_power": 2342.2,
+        "listed_count": 499
+      }
+    },
+    {
+      "mode": "TC",
+      "label": "ガチヤグラ",
+      "region": "JP",
+      "source_url": "https://sendou.ink/xsearch?month=6&year=2026&mode=TC&region=JP",
+      "stats": {
+        "top1_x_power": 3105.2,
+        "top1_rank": 1,
+        "border_rank": 499,
+        "border_x_power": 2334.8,
+        "listed_count": 499
+      }
+    },
+    {
+      "mode": "RM",
+      "label": "ガチホコ",
+      "region": "JP",
+      "source_url": "https://sendou.ink/xsearch?month=6&year=2026&mode=RM&region=JP",
+      "stats": {
+        "top1_x_power": 3187.4,
+        "top1_rank": 1,
+        "border_rank": 499,
+        "border_x_power": 2337.0,
+        "listed_count": 499
+      }
+    },
+    {
+      "mode": "CB",
+      "label": "ガチアサリ",
+      "region": "JP",
+      "source_url": "https://sendou.ink/xsearch?month=6&year=2026&mode=CB&region=JP",
+      "stats": {
+        "top1_x_power": 3212.9,
+        "top1_rank": 1,
+        "border_rank": 499,
+        "border_x_power": 2269.5,
+        "listed_count": 499
+      }
+    }
+  ]
+}

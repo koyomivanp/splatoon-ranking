@@ -1,0 +1,33 @@
+{
+  "_note": "超高レート(XP4000+)到達者の一覧。players に {name, xp, x, weapon} を並べると、武器集計は自動計算される。weapon名は stat.ink 表記に寄せると画像が付く（例: .52ガロン）。画像/まとめから手動更新。",
+  "title": "超上位勢(XP4000到達者)が使うブキ",
+  "subtitle": "XP4000到達者の使用ブキ集計",
+  "source": "スプラ3まとめ-トリカラ速報 / Xポスト",
+  "updated": "2025-06-01",
+  "players": [
+    { "name": "メロン", "xp": 5006.6, "x": "melon1_game", "weapon": ".52ガロン" },
+    { "name": "ちょこぺろ", "xp": 4996.4, "x": "rrchocopero", "weapon": "プライムシューター" },
+    { "name": "ろぶすた〜", "xp": 4958.3, "x": "tt_lv_", "weapon": "ロングブラスター" },
+    { "name": "なえごら", "xp": 4431, "x": "naevorand0611", "weapon": "ノーチラス47" },
+    { "name": "のりしお", "xp": 4378, "x": "NoriFPS", "weapon": "ジムワイパー" },
+    { "name": "そっぴ", "xp": 4362, "x": "soppi0313", "weapon": "プライムシューター" },
+    { "name": "イカマン", "xp": 4213, "x": "ikaman_spl3", "weapon": "ホットブラスター" },
+    { "name": "あーずー", "xp": 4149, "x": "AzuJETMAN", "weapon": "ボトルガイザー" },
+    { "name": "ねこすき", "xp": 4137, "x": "96dk_", "weapon": ".96ガロンデコ" },
+    { "name": "一口たべる", "xp": 4114, "x": "hitokuchi4114", "weapon": "Sブラスト91" },
+    { "name": "りぃれ", "xp": 4102, "x": "OTKdeus", "weapon": "ボトルガイザー" },
+    { "name": "おおきなこいし", "xp": 4070, "x": "ookinakoisi8481", "weapon": "ロングブラスター" },
+    { "name": "れんたな", "xp": 4068, "x": "lunaluna_mh", "weapon": "ヒッセン・ヒュー" },
+    { "name": "すえまる", "xp": 4068, "x": "maru_t_a", "weapon": "ボトルガイザー" },
+    { "name": "うーたん", "xp": 4059, "x": "tandon6w", "weapon": ".52ガロン" },
+    { "name": "ましゅー", "xp": 4054, "x": "bokourti", "weapon": "クアッドホッパーブラック" },
+    { "name": "そふ", "xp": 4046, "x": "Y1el9h", "weapon": "ノーチラス47" },
+    { "name": "かめちゃん", "xp": 4040, "x": "kamechan__7", "weapon": "デュアルスイーパー" },
+    { "name": "ウルボー", "xp": 4027, "x": "wol_bo", "weapon": "R-PEN 5H" },
+    { "name": "スギ", "xp": 4024, "x": "SUG1O", "weapon": "クーゲルシュライバー" },
+    { "name": "わさびーふ", "xp": 4018, "x": "wasab_kinoko", "weapon": "スプラマニューバー" },
+    { "name": "がらんどう", "xp": 4013, "x": "Grand_roll", "weapon": "モップリン" },
+    { "name": "よっちゃんいか", "xp": 4008, "x": "Y1354317343188Y", "weapon": "Sブラスト92" },
+    { "name": "Kotaji", "xp": 4002, "x": "Kotaji_spl", "weapon": "スプラマニューバー" }
+  ]
+}

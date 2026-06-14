@@ -1,0 +1,59 @@
+name: Expand playstyle (slow)
+
+# ランキング更新（deploy.yml）とは別枠で、1日1武器ずつ解説を増やす。
+# GEMINI_API_KEY を Secrets に登録した場合のみ意味がある。
+
+on:
+  schedule:
+    # 毎日 1:00 JST (= 16:00 UTC)
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+    inputs:
+      max_api:
+        description: "この実行で Gemini を叩く回数（通常 1）"
+        required: false
+        default: "1"
+      min_rank:
+        description: "TOP N 以降だけ対象（例: 21）"
+        required: false
+        default: "1"
+
+jobs:
+  expand:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Gemini deps
+        run: pip install -r requirements-gemini.txt
+
+      - name: Fetch stat.ink ranking
+        run: python fetch_ranking.py
+
+      - name: Add next weapon playstyle
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python fetch_spla_log.py \
+            --auto \
+            --min-rank "${{ github.event.inputs.min_rank || '1' }}" \
+            --max-api "${{ github.event.inputs.max_api || '1' }}" \
+            --sleep 15
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playstyle.json spla_log_cache.json ranking.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "auto: playstyle expand (+1 weapon)"
+            git push
+          fi
