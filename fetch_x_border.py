@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parent
 OUT_PATH = ROOT / "x_borders.json"
 
 SENDOU_BASE = "https://sendou.ink/xsearch"
-USER_AGENT = "splatoon-ranking-bot/1.0 (+https://splatoon-weapon-ranking.netlify.app/)"
+USER_AGENT = "splatoon-ranking-bot/1.0 (+https://splatoon-ranking.netlify.app/)"
 
 # sendou.ink 内部コード → 表示名
 MODES = {

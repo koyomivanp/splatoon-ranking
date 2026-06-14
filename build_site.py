@@ -12,7 +12,7 @@ import json
 import os
 from datetime import datetime, timezone, timedelta
 
-SITE_URL = "https://splatoon-weapon-ranking.netlify.app/"
+SITE_URL = "https://splatoon-ranking.netlify.app/"
 SITE_NAME = "スプラ最強武器ランキング"
 OUT_DIR = "dist"
 
