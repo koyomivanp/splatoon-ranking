@@ -1591,6 +1591,8 @@ def main():
         f.write(write_sitemap(slugs, extra_pages))
     with open(os.path.join(OUT_DIR, "robots.txt"), "w", encoding="utf-8") as f:
         f.write(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}sitemap.xml\n")
+    with open(os.path.join(OUT_DIR, "google0cbfc501c4dc1241.html"), "w", encoding="utf-8") as f:
+        f.write("google-site-verification: google0cbfc501c4dc1241.html\n")
 
     print(f"{OUT_DIR}/index.html と ブキ個別ページ {len(slugs)}件 を生成しました。")
 
