@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T19:02:10.812717+00:00",
+  "updated_at": "2026-09-10T18:55:02.839500+00:00",
   "source": "stat.ink",
   "game": "Splatoon 3",
   "season": 17,
@@ -18,9 +18,9 @@
         "overall": [
           {
             "weapon": "スパッタリー・ヒュー",
-            "win_rate": 55.88,
-            "samples": 306,
-            "delta": 3.61,
+            "win_rate": 55.7,
+            "samples": 316,
+            "delta": 3.42,
             "category": "マニューバー",
             "sub": "トーピード",
             "special": "サメライド",
@@ -31,9 +31,9 @@
           },
           {
             "weapon": "ホットブラスターカスタム",
-            "win_rate": 51.92,
-            "samples": 312,
-            "delta": 1.51,
+            "win_rate": 51.85,
+            "samples": 324,
+            "delta": 1.44,
             "category": "ブラスター",
             "sub": "ポイントセンサー",
             "special": "ウルトラチャクチ",
@@ -44,9 +44,9 @@
           },
           {
             "weapon": ".52ガロン",
-            "win_rate": 50.21,
-            "samples": 727,
-            "delta": -1.17,
+            "win_rate": 50.4,
+            "samples": 752,
+            "delta": -0.97,
             "category": "シューター",
             "sub": "スプラッシュシールド",
             "special": "メガホンレーザー5.1ch",
@@ -56,22 +56,9 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/megaphone51.png?v=1787221047"
           },
           {
-            "weapon": "わかばシューター",
-            "win_rate": 50.15,
-            "samples": 343,
-            "delta": 0.19,
-            "category": "シューター",
-            "sub": "スプラッシュボム",
-            "special": "グレートバリア",
-            "best_rule": "ガチエリア",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/wakaba.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/greatbarrier.png?v=1787221047"
-          },
-          {
             "weapon": "ダイナモローラー",
-            "win_rate": 49.87,
-            "samples": 393,
+            "win_rate": 49.88,
+            "samples": 407,
             "delta": -3.1,
             "category": "ローラー",
             "sub": "スプリンクラー",
@@ -82,10 +69,23 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/energystand.png?v=1787221047"
           },
           {
+            "weapon": "わかばシューター",
+            "win_rate": 49.3,
+            "samples": 359,
+            "delta": -0.65,
+            "category": "シューター",
+            "sub": "スプラッシュボム",
+            "special": "グレートバリア",
+            "best_rule": "ガチエリア",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/wakaba.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/greatbarrier.png?v=1787221047"
+          },
+          {
             "weapon": "リッター4K",
-            "win_rate": 49.36,
-            "samples": 314,
-            "delta": -0.23,
+            "win_rate": 49.24,
+            "samples": 327,
+            "delta": -0.36,
             "category": "チャージャー",
             "sub": "トラップ",
             "special": "ホップソナー",
@@ -96,9 +96,9 @@
           },
           {
             "weapon": "スプラシューター",
-            "win_rate": 48.76,
-            "samples": 605,
-            "delta": -2.03,
+            "win_rate": 49.2,
+            "samples": 628,
+            "delta": -1.59,
             "category": "シューター",
             "sub": "キューバンボム",
             "special": "ウルトラショット",
@@ -109,9 +109,9 @@
           },
           {
             "weapon": "N-ZAP85",
-            "win_rate": 47.22,
-            "samples": 396,
-            "delta": -1.7,
+            "win_rate": 47.28,
+            "samples": 404,
+            "delta": -1.65,
             "category": "シューター",
             "sub": "キューバンボム",
             "special": "エナジースタンド",
@@ -222,9 +222,9 @@
         "yagura": [
           {
             "weapon": "ホットブラスターカスタム",
-            "win_rate": 54.48,
-            "samples": 134,
-            "delta": 3.76,
+            "win_rate": 55.4,
+            "samples": 139,
+            "delta": 4.68,
             "category": "ブラスター",
             "sub": "ポイントセンサー",
             "special": "ウルトラチャクチ",
@@ -234,9 +234,9 @@
           },
           {
             "weapon": "スプラシューター",
-            "win_rate": 51.53,
-            "samples": 163,
-            "delta": -0.92,
+            "win_rate": 51.74,
+            "samples": 172,
+            "delta": -0.71,
             "category": "シューター",
             "sub": "キューバンボム",
             "special": "ウルトラショット",
@@ -246,9 +246,9 @@
           },
           {
             "weapon": "リッター4K",
-            "win_rate": 51.52,
-            "samples": 132,
-            "delta": 1.9,
+            "win_rate": 51.06,
+            "samples": 141,
+            "delta": 1.45,
             "category": "チャージャー",
             "sub": "トラップ",
             "special": "ホップソナー",
@@ -258,9 +258,9 @@
           },
           {
             "weapon": ".52ガロン",
-            "win_rate": 50.76,
-            "samples": 197,
-            "delta": -0.01,
+            "win_rate": 50.74,
+            "samples": 203,
+            "delta": -0.03,
             "category": "シューター",
             "sub": "スプラッシュシールド",
             "special": "メガホンレーザー5.1ch",
@@ -270,9 +270,9 @@
           },
           {
             "weapon": "わかばシューター",
-            "win_rate": 50.33,
-            "samples": 151,
-            "delta": 0.56,
+            "win_rate": 50.63,
+            "samples": 158,
+            "delta": 0.86,
             "category": "シューター",
             "sub": "スプラッシュボム",
             "special": "グレートバリア",
@@ -282,9 +282,9 @@
           },
           {
             "weapon": "ダイナモローラー",
-            "win_rate": 43.93,
-            "samples": 107,
-            "delta": -8.61,
+            "win_rate": 44.55,
+            "samples": 110,
+            "delta": -7.99,
             "category": "ローラー",
             "sub": "スプリンクラー",
             "special": "エナジースタンド",
@@ -294,23 +294,35 @@
           },
           {
             "weapon": "N-ZAP85",
-            "win_rate": 43.64,
-            "samples": 110,
-            "delta": -5.57,
+            "win_rate": 44.25,
+            "samples": 113,
+            "delta": -4.96,
             "category": "シューター",
             "sub": "キューバンボム",
             "special": "エナジースタンド",
             "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/nzap85.png?v=1787221047",
             "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kyubanbomb.png?v=1787221047",
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/energystand.png?v=1787221047"
+          },
+          {
+            "weapon": "ノヴァブラスターネオ",
+            "win_rate": 41.9,
+            "samples": 105,
+            "delta": -8.82,
+            "category": "ブラスター",
+            "sub": "タンサンボム",
+            "special": "ウルトラハンコ",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Blasters/nova_neo.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tansanbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrahanko.png?v=1787221047"
           }
         ],
         "hoko": [
           {
             "weapon": ".52ガロン",
-            "win_rate": 50.58,
-            "samples": 172,
-            "delta": -0.78,
+            "win_rate": 50.53,
+            "samples": 188,
+            "delta": -0.83,
             "category": "シューター",
             "sub": "スプラッシュシールド",
             "special": "メガホンレーザー5.1ch",
@@ -320,9 +332,9 @@
           },
           {
             "weapon": "スプラシューター",
-            "win_rate": 48.08,
-            "samples": 156,
-            "delta": -2.55,
+            "win_rate": 49.11,
+            "samples": 169,
+            "delta": -1.52,
             "category": "シューター",
             "sub": "キューバンボム",
             "special": "ウルトラショット",
@@ -339,10 +351,23 @@
       "rules": {
         "overall": [
           {
+            "weapon": "ハイドラント圧",
+            "win_rate": 56.03,
+            "samples": 307,
+            "delta": 3.79,
+            "category": "スピナー",
+            "sub": "スプリンクラー",
+            "special": "グレートバリア",
+            "best_rule": "ガチヤグラ",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Splatlings/hydra_atsu.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/greatbarrier.png?v=1787221047"
+          },
+          {
             "weapon": "パブロ",
-            "win_rate": 54.37,
-            "samples": 469,
-            "delta": 5.56,
+            "win_rate": 54.22,
+            "samples": 474,
+            "delta": 5.41,
             "category": "フデ",
             "sub": "スプラッシュボム",
             "special": "メガホンレーザー5.1ch",
@@ -353,9 +378,9 @@
           },
           {
             "weapon": "スプラマニューバーコラボ",
-            "win_rate": 53.99,
-            "samples": 765,
-            "delta": 4.19,
+            "win_rate": 53.96,
+            "samples": 771,
+            "delta": 4.16,
             "category": "マニューバー",
             "sub": "カーリングボム",
             "special": "ウルトラチャクチ",
@@ -366,9 +391,9 @@
           },
           {
             "weapon": "ダイナモローラー",
-            "win_rate": 52.96,
-            "samples": 778,
-            "delta": 2.94,
+            "win_rate": 52.88,
+            "samples": 781,
+            "delta": 2.87,
             "category": "ローラー",
             "sub": "スプリンクラー",
             "special": "エナジースタンド",
@@ -379,9 +404,9 @@
           },
           {
             "weapon": "スプラシューター",
-            "win_rate": 52.49,
-            "samples": 1307,
-            "delta": 1.82,
+            "win_rate": 52.61,
+            "samples": 1323,
+            "delta": 1.94,
             "category": "シューター",
             "sub": "キューバンボム",
             "special": "ウルトラショット",
@@ -392,9 +417,9 @@
           },
           {
             "weapon": "スパッタリー・ヒュー",
-            "win_rate": 51.8,
-            "samples": 724,
-            "delta": 0.57,
+            "win_rate": 51.71,
+            "samples": 729,
+            "delta": 0.49,
             "category": "マニューバー",
             "sub": "トーピード",
             "special": "サメライド",
@@ -404,23 +429,23 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sameride.png?v=1787221047"
           },
           {
-            "weapon": "ホクサイ・ヒュー",
-            "win_rate": 51.45,
-            "samples": 311,
-            "delta": -0.83,
-            "category": "フデ",
-            "sub": "ジャンプビーコン",
-            "special": "アメフラシ",
-            "best_rule": "ガチヤグラ",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Brushes/hokusai_hue.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/jumpbeacon.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/amefurashi.png?v=1787221047"
+            "weapon": "スプラローラー",
+            "win_rate": 51.7,
+            "samples": 588,
+            "delta": -0.12,
+            "category": "ローラー",
+            "sub": "カーリングボム",
+            "special": "グレートバリア",
+            "best_rule": "ガチアサリ",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Rollers/splatroller.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/curlingbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/greatbarrier.png?v=1787221047"
           },
           {
             "weapon": "もみじシューター",
-            "win_rate": 51.41,
-            "samples": 708,
-            "delta": 2.4,
+            "win_rate": 51.6,
+            "samples": 719,
+            "delta": 2.59,
             "category": "シューター",
             "sub": "トーピード",
             "special": "ホップソナー",
@@ -430,36 +455,23 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/hopsonar.png?v=1787221047"
           },
           {
-            "weapon": "スプラローラー",
-            "win_rate": 51.38,
-            "samples": 578,
-            "delta": -0.44,
-            "category": "ローラー",
-            "sub": "カーリングボム",
-            "special": "グレートバリア",
+            "weapon": "ホクサイ・ヒュー",
+            "win_rate": 51.43,
+            "samples": 315,
+            "delta": -0.85,
+            "category": "フデ",
+            "sub": "ジャンプビーコン",
+            "special": "アメフラシ",
             "best_rule": "ガチヤグラ",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Rollers/splatroller.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/curlingbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/greatbarrier.png?v=1787221047"
-          },
-          {
-            "weapon": "ノヴァブラスターネオ",
-            "win_rate": 51.37,
-            "samples": 621,
-            "delta": -0.16,
-            "category": "ブラスター",
-            "sub": "タンサンボム",
-            "special": "ウルトラハンコ",
-            "best_rule": "ガチエリア",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Blasters/nova_neo.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tansanbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrahanko.png?v=1787221047"
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Brushes/hokusai_hue.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/jumpbeacon.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/amefurashi.png?v=1787221047"
           },
           {
             "weapon": "ボールドマーカー",
-            "win_rate": 51.2,
-            "samples": 666,
-            "delta": -0.26,
+            "win_rate": 51.26,
+            "samples": 675,
+            "delta": -0.2,
             "category": "シューター",
             "sub": "カーリングボム",
             "special": "ウルトラハンコ",
@@ -469,10 +481,23 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrahanko.png?v=1787221047"
           },
           {
+            "weapon": "ノヴァブラスターネオ",
+            "win_rate": 51.19,
+            "samples": 631,
+            "delta": -0.34,
+            "category": "ブラスター",
+            "sub": "タンサンボム",
+            "special": "ウルトラハンコ",
+            "best_rule": "ガチエリア",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Blasters/nova_neo.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tansanbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrahanko.png?v=1787221047"
+          },
+          {
             "weapon": "ハイドラント",
-            "win_rate": 50.73,
-            "samples": 341,
-            "delta": 0.37,
+            "win_rate": 51.02,
+            "samples": 343,
+            "delta": 0.65,
             "category": "スピナー",
             "sub": "ロボットボム",
             "special": "ナイスダマ",
@@ -483,9 +508,9 @@
           },
           {
             "weapon": "ホットブラスターカスタム",
-            "win_rate": 50.49,
-            "samples": 921,
-            "delta": -0.96,
+            "win_rate": 50.7,
+            "samples": 933,
+            "delta": -0.76,
             "category": "ブラスター",
             "sub": "ポイントセンサー",
             "special": "ウルトラチャクチ",
@@ -495,10 +520,23 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultra_chakuchi.png?v=1787221047"
           },
           {
+            "weapon": "プロモデラーRG",
+            "win_rate": 49.91,
+            "samples": 535,
+            "delta": 0.95,
+            "category": "シューター",
+            "sub": "スプリンクラー",
+            "special": "ナイスダマ",
+            "best_rule": "ガチエリア",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/promodeler_rg.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/nicedama.png?v=1787221047"
+          },
+          {
             "weapon": ".52ガロン",
-            "win_rate": 49.97,
-            "samples": 1965,
-            "delta": -0.15,
+            "win_rate": 49.72,
+            "samples": 1981,
+            "delta": -0.4,
             "category": "シューター",
             "sub": "スプラッシュシールド",
             "special": "メガホンレーザー5.1ch",
@@ -508,22 +546,9 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/megaphone51.png?v=1787221047"
           },
           {
-            "weapon": "PETシューター レプリカ",
-            "win_rate": 49.86,
-            "samples": 365,
-            "delta": -6.34,
-            "category": "シューター",
-            "sub": "スプラッシュボム",
-            "special": "トリプルトルネード",
-            "best_rule": "ガチヤグラ",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/petshooter_replica.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tripletornado.png?v=1787221047"
-          },
-          {
             "weapon": "バレルスピナー",
             "win_rate": 49.66,
-            "samples": 435,
+            "samples": 439,
             "delta": -3.26,
             "category": "スピナー",
             "sub": "スプリンクラー",
@@ -534,23 +559,23 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/hopsonar.png?v=1787221047"
           },
           {
-            "weapon": "プロモデラーRG",
-            "win_rate": 49.62,
-            "samples": 528,
-            "delta": 0.66,
+            "weapon": "PETシューター レプリカ",
+            "win_rate": 49.6,
+            "samples": 373,
+            "delta": -6.61,
             "category": "シューター",
-            "sub": "スプリンクラー",
-            "special": "ナイスダマ",
-            "best_rule": "ガチエリア",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/promodeler_rg.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/nicedama.png?v=1787221047"
+            "sub": "スプラッシュボム",
+            "special": "トリプルトルネード",
+            "best_rule": "ガチヤグラ",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/petshooter_replica.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tripletornado.png?v=1787221047"
           },
           {
             "weapon": "N-ZAP85",
-            "win_rate": 49.59,
-            "samples": 853,
-            "delta": -0.13,
+            "win_rate": 49.42,
+            "samples": 858,
+            "delta": -0.31,
             "category": "シューター",
             "sub": "キューバンボム",
             "special": "エナジースタンド",
@@ -561,9 +586,9 @@
           },
           {
             "weapon": "リッター4K",
-            "win_rate": 49.29,
-            "samples": 988,
-            "delta": 0.66,
+            "win_rate": 49.25,
+            "samples": 1001,
+            "delta": 0.62,
             "category": "チャージャー",
             "sub": "トラップ",
             "special": "ホップソナー",
@@ -574,9 +599,9 @@
           },
           {
             "weapon": "スプラシューターコラボ",
-            "win_rate": 48.54,
-            "samples": 1127,
-            "delta": 0.57,
+            "win_rate": 48.43,
+            "samples": 1146,
+            "delta": 0.46,
             "category": "シューター",
             "sub": "スプラッシュボム",
             "special": "トリプルトルネード",
@@ -586,23 +611,10 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tripletornado.png?v=1787221047"
           },
           {
-            "weapon": "シャープマーカーネオ",
-            "win_rate": 48.48,
-            "samples": 330,
-            "delta": -0.75,
-            "category": "シューター",
-            "sub": "キューバンボム",
-            "special": "トリプルトルネード",
-            "best_rule": "ガチヤグラ",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/sharp_neo.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kyubanbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tripletornado.png?v=1787221047"
-          },
-          {
             "weapon": "わかばシューター",
-            "win_rate": 48.35,
-            "samples": 939,
-            "delta": -1.75,
+            "win_rate": 48.37,
+            "samples": 949,
+            "delta": -1.74,
             "category": "シューター",
             "sub": "スプラッシュボム",
             "special": "グレートバリア",
@@ -613,9 +625,9 @@
           },
           {
             "weapon": "プロモデラーMG",
-            "win_rate": 47.76,
-            "samples": 469,
-            "delta": -3.2,
+            "win_rate": 48.32,
+            "samples": 476,
+            "delta": -2.64,
             "category": "シューター",
             "sub": "タンサンボム",
             "special": "サメライド",
@@ -625,36 +637,23 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sameride.png?v=1787221047"
           },
           {
-            "weapon": "シャープマーカー",
-            "win_rate": 47.67,
-            "samples": 344,
-            "delta": -1.14,
+            "weapon": "シャープマーカーネオ",
+            "win_rate": 48.06,
+            "samples": 335,
+            "delta": -1.17,
             "category": "シューター",
-            "sub": "クイックボム",
-            "special": "カニタンク",
-            "best_rule": "ガチエリア",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/sharp.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/quickbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kanitank.png?v=1787221047"
-          },
-          {
-            "weapon": "プライムシューターFRZN",
-            "win_rate": 47.45,
-            "samples": 411,
-            "delta": -0.23,
-            "category": "シューター",
-            "sub": "スプラッシュボム",
-            "special": "マルチミサイル",
+            "sub": "キューバンボム",
+            "special": "トリプルトルネード",
             "best_rule": "ガチヤグラ",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/prime_frzn.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/missile.png?v=1787221047"
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/sharp_neo.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kyubanbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tripletornado.png?v=1787221047"
           },
           {
             "weapon": "カーボンローラーデコ",
-            "win_rate": 47.29,
-            "samples": 719,
-            "delta": -3.4,
+            "win_rate": 47.19,
+            "samples": 729,
+            "delta": -3.5,
             "category": "ローラー",
             "sub": "クイックボム",
             "special": "ウルトラショット",
@@ -664,23 +663,10 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrashot.png?v=1787221047"
           },
           {
-            "weapon": "オーバーフロッシャー",
-            "win_rate": 47.07,
-            "samples": 752,
-            "delta": -1.0,
-            "category": "スロッシャー",
-            "sub": "スプリンクラー",
-            "special": "アメフラシ",
-            "best_rule": "ガチエリア",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Sloshers/furo.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/amefurashi.png?v=1787221047"
-          },
-          {
             "weapon": "プライムシューターコラボ",
-            "win_rate": 46.62,
-            "samples": 474,
-            "delta": -3.02,
+            "win_rate": 47.07,
+            "samples": 478,
+            "delta": -2.57,
             "category": "シューター",
             "sub": "キューバンボム",
             "special": "ナイスダマ",
@@ -690,23 +676,62 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/nicedama.png?v=1787221047"
           },
           {
+            "weapon": "プライムシューターFRZN",
+            "win_rate": 46.99,
+            "samples": 415,
+            "delta": -0.68,
+            "category": "シューター",
+            "sub": "スプラッシュボム",
+            "special": "マルチミサイル",
+            "best_rule": "ガチヤグラ",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/prime_frzn.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/missile.png?v=1787221047"
+          },
+          {
+            "weapon": "オーバーフロッシャー",
+            "win_rate": 46.95,
+            "samples": 754,
+            "delta": -1.12,
+            "category": "スロッシャー",
+            "sub": "スプリンクラー",
+            "special": "アメフラシ",
+            "best_rule": "ガチエリア",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Sloshers/furo.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/amefurashi.png?v=1787221047"
+          },
+          {
             "weapon": "ヒッセン・ヒュー",
-            "win_rate": 46.33,
-            "samples": 300,
-            "delta": -2.43,
+            "win_rate": 46.89,
+            "samples": 305,
+            "delta": -1.88,
             "category": "スロッシャー",
             "sub": "タンサンボム",
             "special": "エナジースタンド",
-            "best_rule": "ガチエリア",
+            "best_rule": "ガチヤグラ",
             "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Sloshers/hissen_hue.png?v=1787221047",
             "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tansanbomb.png?v=1787221047",
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/energystand.png?v=1787221047"
           },
           {
+            "weapon": "シャープマーカー",
+            "win_rate": 46.76,
+            "samples": 355,
+            "delta": -2.05,
+            "category": "シューター",
+            "sub": "クイックボム",
+            "special": "カニタンク",
+            "best_rule": "ガチエリア",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/sharp.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/quickbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kanitank.png?v=1787221047"
+          },
+          {
             "weapon": "N-ZAP89",
-            "win_rate": 45.41,
-            "samples": 381,
-            "delta": -3.49,
+            "win_rate": 44.94,
+            "samples": 385,
+            "delta": -3.96,
             "category": "シューター",
             "sub": "ロボットボム",
             "special": "デコイチラシ",
@@ -717,9 +742,9 @@
           },
           {
             "weapon": "ヴァリアブルローラー",
-            "win_rate": 44.76,
-            "samples": 315,
-            "delta": -4.36,
+            "win_rate": 44.48,
+            "samples": 317,
+            "delta": -4.64,
             "category": "ローラー",
             "sub": "トラップ",
             "special": "マルチミサイル",
@@ -730,9 +755,9 @@
           },
           {
             "weapon": "フルイドV",
-            "win_rate": 43.29,
-            "samples": 328,
-            "delta": -4.0,
+            "win_rate": 43.2,
+            "samples": 331,
+            "delta": -4.09,
             "category": "ストリンガー",
             "sub": "ロボットボム",
             "special": "ウルトラハンコ",
@@ -743,9 +768,9 @@
           },
           {
             "weapon": "トライストリンガー",
-            "win_rate": 41.55,
-            "samples": 349,
-            "delta": -6.59,
+            "win_rate": 41.93,
+            "samples": 353,
+            "delta": -6.21,
             "category": "ストリンガー",
             "sub": "ポイズンミスト",
             "special": "メガホンレーザー5.1ch",
@@ -782,9 +807,9 @@
           },
           {
             "weapon": "ハイドラント",
-            "win_rate": 55.81,
-            "samples": 172,
-            "delta": 5.15,
+            "win_rate": 56.32,
+            "samples": 174,
+            "delta": 5.66,
             "category": "スピナー",
             "sub": "ロボットボム",
             "special": "ナイスダマ",
@@ -793,10 +818,22 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/nicedama.png?v=1787221047"
           },
           {
+            "weapon": "エクスプロッシャーカスタム",
+            "win_rate": 54.32,
+            "samples": 162,
+            "delta": 0.84,
+            "category": "スロッシャー",
+            "sub": "スプラッシュシールド",
+            "special": "ウルトラチャクチ",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Sloshers/explosher_custom.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashshield.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultra_chakuchi.png?v=1787221047"
+          },
+          {
             "weapon": "スパッタリー・ヒュー",
-            "win_rate": 54.17,
-            "samples": 288,
-            "delta": 4.06,
+            "win_rate": 54.14,
+            "samples": 290,
+            "delta": 4.03,
             "category": "マニューバー",
             "sub": "トーピード",
             "special": "サメライド",
@@ -815,18 +852,6 @@
             "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/bold.png?v=1787221047",
             "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/curlingbomb.png?v=1787221047",
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrahanko.png?v=1787221047"
-          },
-          {
-            "weapon": "エクスプロッシャーカスタム",
-            "win_rate": 53.75,
-            "samples": 160,
-            "delta": 0.27,
-            "category": "スロッシャー",
-            "sub": "スプラッシュシールド",
-            "special": "ウルトラチャクチ",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Sloshers/explosher_custom.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashshield.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultra_chakuchi.png?v=1787221047"
           },
           {
             "weapon": "ノヴァブラスターネオ",
@@ -866,15 +891,27 @@
           },
           {
             "weapon": "わかばシューター",
-            "win_rate": 51.96,
-            "samples": 331,
-            "delta": 1.38,
+            "win_rate": 51.81,
+            "samples": 332,
+            "delta": 1.23,
             "category": "シューター",
             "sub": "スプラッシュボム",
             "special": "グレートバリア",
             "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/wakaba.png?v=1787221047",
             "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/greatbarrier.png?v=1787221047"
+          },
+          {
+            "weapon": "パブロ",
+            "win_rate": 51.3,
+            "samples": 154,
+            "delta": 3.53,
+            "category": "フデ",
+            "sub": "スプラッシュボム",
+            "special": "メガホンレーザー5.1ch",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Brushes/pablo.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/megaphone51.png?v=1787221047"
           },
           {
             "weapon": "ホットブラスターカスタム",
@@ -903,7 +940,7 @@
           {
             "weapon": ".52ガロン",
             "win_rate": 51.02,
-            "samples": 635,
+            "samples": 639,
             "delta": 0.27,
             "category": "シューター",
             "sub": "スプラッシュシールド",
@@ -911,30 +948,6 @@
             "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/52gal.png?v=1787221047",
             "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashshield.png?v=1787221047",
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/megaphone51.png?v=1787221047"
-          },
-          {
-            "weapon": "パブロ",
-            "win_rate": 50.98,
-            "samples": 153,
-            "delta": 3.21,
-            "category": "フデ",
-            "sub": "スプラッシュボム",
-            "special": "メガホンレーザー5.1ch",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Brushes/pablo.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/megaphone51.png?v=1787221047"
-          },
-          {
-            "weapon": "バレルスピナー",
-            "win_rate": 50.9,
-            "samples": 222,
-            "delta": -2.7,
-            "category": "スピナー",
-            "sub": "スプリンクラー",
-            "special": "ホップソナー",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Splatlings/barrelspinner.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/hopsonar.png?v=1787221047"
           },
           {
             "weapon": "N-ZAP85",
@@ -949,22 +962,22 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/energystand.png?v=1787221047"
           },
           {
-            "weapon": "プロモデラーRG",
-            "win_rate": 50.31,
-            "samples": 318,
-            "delta": -1.89,
-            "category": "シューター",
+            "weapon": "バレルスピナー",
+            "win_rate": 50.67,
+            "samples": 223,
+            "delta": -2.93,
+            "category": "スピナー",
             "sub": "スプリンクラー",
-            "special": "ナイスダマ",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/promodeler_rg.png?v=1787221047",
+            "special": "ホップソナー",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Splatlings/barrelspinner.png?v=1787221047",
             "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/nicedama.png?v=1787221047"
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/hopsonar.png?v=1787221047"
           },
           {
             "weapon": "カーボンローラーデコ",
-            "win_rate": 50.28,
-            "samples": 181,
-            "delta": 1.55,
+            "win_rate": 50.55,
+            "samples": 182,
+            "delta": 1.82,
             "category": "ローラー",
             "sub": "クイックボム",
             "special": "ウルトラショット",
@@ -973,16 +986,16 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrashot.png?v=1787221047"
           },
           {
-            "weapon": "リッター4K",
-            "win_rate": 50.27,
-            "samples": 372,
-            "delta": 1.99,
-            "category": "チャージャー",
-            "sub": "トラップ",
-            "special": "ホップソナー",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Chargers/liter4k.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/trap.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/hopsonar.png?v=1787221047"
+            "weapon": "プロモデラーRG",
+            "win_rate": 50.31,
+            "samples": 322,
+            "delta": -1.89,
+            "category": "シューター",
+            "sub": "スプリンクラー",
+            "special": "ナイスダマ",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/promodeler_rg.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/nicedama.png?v=1787221047"
           },
           {
             "weapon": "オーバーフロッシャー",
@@ -995,6 +1008,18 @@
             "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Sloshers/furo.png?v=1787221047",
             "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/amefurashi.png?v=1787221047"
+          },
+          {
+            "weapon": "リッター4K",
+            "win_rate": 50.0,
+            "samples": 374,
+            "delta": 1.72,
+            "category": "チャージャー",
+            "sub": "トラップ",
+            "special": "ホップソナー",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Chargers/liter4k.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/trap.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/hopsonar.png?v=1787221047"
           },
           {
             "weapon": "ダイナモローラー",
@@ -1022,9 +1047,9 @@
           },
           {
             "weapon": "スプラシューターコラボ",
-            "win_rate": 49.05,
-            "samples": 473,
-            "delta": 0.91,
+            "win_rate": 48.95,
+            "samples": 474,
+            "delta": 0.8,
             "category": "シューター",
             "sub": "スプラッシュボム",
             "special": "トリプルトルネード",
@@ -1034,15 +1059,27 @@
           },
           {
             "weapon": "プロモデラーMG",
-            "win_rate": 47.39,
-            "samples": 287,
-            "delta": -5.08,
+            "win_rate": 47.75,
+            "samples": 289,
+            "delta": -4.72,
             "category": "シューター",
             "sub": "タンサンボム",
             "special": "サメライド",
             "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/promodeler_mg.png?v=1787221047",
             "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tansanbomb.png?v=1787221047",
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sameride.png?v=1787221047"
+          },
+          {
+            "weapon": "トライストリンガーコラボ",
+            "win_rate": 47.01,
+            "samples": 134,
+            "delta": -7.13,
+            "category": "ストリンガー",
+            "sub": "スプリンクラー",
+            "special": "デコイチラシ",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Stringers/tristringer_collabo.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/decoy.png?v=1787221047"
           },
           {
             "weapon": "シャープマーカーネオ",
@@ -1058,27 +1095,15 @@
           },
           {
             "weapon": "PETシューター レプリカ",
-            "win_rate": 46.92,
-            "samples": 130,
-            "delta": -5.43,
+            "win_rate": 46.56,
+            "samples": 131,
+            "delta": -5.79,
             "category": "シューター",
             "sub": "スプラッシュボム",
             "special": "トリプルトルネード",
             "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/petshooter_replica.png?v=1787221047",
             "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tripletornado.png?v=1787221047"
-          },
-          {
-            "weapon": "トライストリンガーコラボ",
-            "win_rate": 46.62,
-            "samples": 133,
-            "delta": -7.53,
-            "category": "ストリンガー",
-            "sub": "スプリンクラー",
-            "special": "デコイチラシ",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Stringers/tristringer_collabo.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/decoy.png?v=1787221047"
           },
           {
             "weapon": "ヒッセン・ヒュー",
@@ -1105,18 +1130,6 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/hopsonar.png?v=1787221047"
           },
           {
-            "weapon": "N-ZAP89",
-            "win_rate": 44.83,
-            "samples": 174,
-            "delta": -2.47,
-            "category": "シューター",
-            "sub": "ロボットボム",
-            "special": "デコイチラシ",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/nzap89.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/robotbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/decoy.png?v=1787221047"
-          },
-          {
             "weapon": "シャープマーカー",
             "win_rate": 44.6,
             "samples": 139,
@@ -1129,10 +1142,22 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kanitank.png?v=1787221047"
           },
           {
+            "weapon": "N-ZAP89",
+            "win_rate": 44.57,
+            "samples": 175,
+            "delta": -2.72,
+            "category": "シューター",
+            "sub": "ロボットボム",
+            "special": "デコイチラシ",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/nzap89.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/robotbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/decoy.png?v=1787221047"
+          },
+          {
             "weapon": "フルイドV",
-            "win_rate": 44.44,
-            "samples": 108,
-            "delta": 2.11,
+            "win_rate": 44.04,
+            "samples": 109,
+            "delta": 1.7,
             "category": "ストリンガー",
             "sub": "ロボットボム",
             "special": "ウルトラハンコ",
@@ -1180,9 +1205,9 @@
         "yagura": [
           {
             "weapon": "パブロ",
-            "win_rate": 60.0,
-            "samples": 130,
-            "delta": 11.64,
+            "win_rate": 59.85,
+            "samples": 132,
+            "delta": 11.48,
             "category": "フデ",
             "sub": "スプラッシュボム",
             "special": "メガホンレーザー5.1ch",
@@ -1191,22 +1216,10 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/megaphone51.png?v=1787221047"
           },
           {
-            "weapon": "スプラマニューバーコラボ",
-            "win_rate": 56.6,
-            "samples": 212,
-            "delta": 5.95,
-            "category": "マニューバー",
-            "sub": "カーリングボム",
-            "special": "ウルトラチャクチ",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Dualies/maneuver_collabo.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/curlingbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultra_chakuchi.png?v=1787221047"
-          },
-          {
             "weapon": "スプラローラー",
-            "win_rate": 56.22,
-            "samples": 217,
-            "delta": 1.93,
+            "win_rate": 56.44,
+            "samples": 225,
+            "delta": 2.15,
             "category": "ローラー",
             "sub": "カーリングボム",
             "special": "グレートバリア",
@@ -1215,10 +1228,22 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/greatbarrier.png?v=1787221047"
           },
           {
+            "weapon": "スプラマニューバーコラボ",
+            "win_rate": 56.28,
+            "samples": 215,
+            "delta": 5.62,
+            "category": "マニューバー",
+            "sub": "カーリングボム",
+            "special": "ウルトラチャクチ",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Dualies/maneuver_collabo.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/curlingbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultra_chakuchi.png?v=1787221047"
+          },
+          {
             "weapon": "ダイナモローラー",
-            "win_rate": 54.1,
-            "samples": 244,
-            "delta": 4.86,
+            "win_rate": 54.29,
+            "samples": 245,
+            "delta": 5.05,
             "category": "ローラー",
             "sub": "スプリンクラー",
             "special": "エナジースタンド",
@@ -1227,34 +1252,10 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/energystand.png?v=1787221047"
           },
           {
-            "weapon": "PETシューター レプリカ",
-            "win_rate": 53.44,
-            "samples": 131,
-            "delta": -7.81,
-            "category": "シューター",
-            "sub": "スプラッシュボム",
-            "special": "トリプルトルネード",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/petshooter_replica.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tripletornado.png?v=1787221047"
-          },
-          {
-            "weapon": "プライムシューターFRZN",
-            "win_rate": 53.24,
-            "samples": 139,
-            "delta": 6.44,
-            "category": "シューター",
-            "sub": "スプラッシュボム",
-            "special": "マルチミサイル",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/prime_frzn.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/missile.png?v=1787221047"
-          },
-          {
             "weapon": "ハイドラント圧",
-            "win_rate": 53.06,
-            "samples": 147,
-            "delta": -1.61,
+            "win_rate": 53.21,
+            "samples": 156,
+            "delta": -1.47,
             "category": "スピナー",
             "sub": "スプリンクラー",
             "special": "グレートバリア",
@@ -1263,10 +1264,22 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/greatbarrier.png?v=1787221047"
           },
           {
+            "weapon": "PETシューター レプリカ",
+            "win_rate": 52.94,
+            "samples": 136,
+            "delta": -8.3,
+            "category": "シューター",
+            "sub": "スプラッシュボム",
+            "special": "トリプルトルネード",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/petshooter_replica.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tripletornado.png?v=1787221047"
+          },
+          {
             "weapon": "ノヴァブラスターネオ",
-            "win_rate": 52.65,
-            "samples": 302,
-            "delta": 1.38,
+            "win_rate": 52.6,
+            "samples": 308,
+            "delta": 1.33,
             "category": "ブラスター",
             "sub": "タンサンボム",
             "special": "ウルトラハンコ",
@@ -1275,10 +1288,22 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrahanko.png?v=1787221047"
           },
           {
+            "weapon": "プライムシューターFRZN",
+            "win_rate": 52.48,
+            "samples": 141,
+            "delta": 5.69,
+            "category": "シューター",
+            "sub": "スプラッシュボム",
+            "special": "マルチミサイル",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/prime_frzn.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/missile.png?v=1787221047"
+          },
+          {
             "weapon": "スプラシューター",
-            "win_rate": 52.56,
-            "samples": 430,
-            "delta": -0.25,
+            "win_rate": 52.39,
+            "samples": 439,
+            "delta": -0.42,
             "category": "シューター",
             "sub": "キューバンボム",
             "special": "ウルトラショット",
@@ -1287,22 +1312,10 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrashot.png?v=1787221047"
           },
           {
-            "weapon": "スプラシューターコラボ",
-            "win_rate": 51.83,
-            "samples": 328,
-            "delta": 3.12,
-            "category": "シューター",
-            "sub": "スプラッシュボム",
-            "special": "トリプルトルネード",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/sshooter_collabo.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tripletornado.png?v=1787221047"
-          },
-          {
             "weapon": "ホットブラスターカスタム",
-            "win_rate": 51.55,
-            "samples": 419,
-            "delta": -0.94,
+            "win_rate": 51.76,
+            "samples": 425,
+            "delta": -0.72,
             "category": "ブラスター",
             "sub": "ポイントセンサー",
             "special": "ウルトラチャクチ",
@@ -1311,10 +1324,22 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultra_chakuchi.png?v=1787221047"
           },
           {
+            "weapon": "スプラシューターコラボ",
+            "win_rate": 51.65,
+            "samples": 333,
+            "delta": 2.95,
+            "category": "シューター",
+            "sub": "スプラッシュボム",
+            "special": "トリプルトルネード",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/sshooter_collabo.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tripletornado.png?v=1787221047"
+          },
+          {
             "weapon": "スパッタリー・ヒュー",
-            "win_rate": 51.4,
-            "samples": 179,
-            "delta": -0.99,
+            "win_rate": 51.1,
+            "samples": 182,
+            "delta": -1.29,
             "category": "マニューバー",
             "sub": "トーピード",
             "special": "サメライド",
@@ -1323,10 +1348,22 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sameride.png?v=1787221047"
           },
           {
+            "weapon": "ヒッセン・ヒュー",
+            "win_rate": 50.0,
+            "samples": 102,
+            "delta": -0.56,
+            "category": "スロッシャー",
+            "sub": "タンサンボム",
+            "special": "エナジースタンド",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Sloshers/hissen_hue.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tansanbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/energystand.png?v=1787221047"
+          },
+          {
             "weapon": "フィンセント・ヒュー",
-            "win_rate": 50.49,
-            "samples": 103,
-            "delta": 0.42,
+            "win_rate": 50.0,
+            "samples": 104,
+            "delta": -0.07,
             "category": "フデ",
             "sub": "ポイントセンサー",
             "special": "マルチミサイル",
@@ -1335,22 +1372,10 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/missile.png?v=1787221047"
           },
           {
-            "weapon": "N-ZAP85",
-            "win_rate": 49.59,
-            "samples": 244,
-            "delta": 0.69,
-            "category": "シューター",
-            "sub": "キューバンボム",
-            "special": "エナジースタンド",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/nzap85.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kyubanbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/energystand.png?v=1787221047"
-          },
-          {
             "weapon": "もみじシューター",
-            "win_rate": 48.96,
-            "samples": 288,
-            "delta": -0.25,
+            "win_rate": 49.31,
+            "samples": 290,
+            "delta": 0.11,
             "category": "シューター",
             "sub": "トーピード",
             "special": "ホップソナー",
@@ -1359,34 +1384,22 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/hopsonar.png?v=1787221047"
           },
           {
-            "weapon": "シャープマーカーネオ",
-            "win_rate": 48.25,
-            "samples": 114,
-            "delta": 0.63,
+            "weapon": "N-ZAP85",
+            "win_rate": 49.19,
+            "samples": 248,
+            "delta": 0.3,
             "category": "シューター",
             "sub": "キューバンボム",
-            "special": "トリプルトルネード",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/sharp_neo.png?v=1787221047",
+            "special": "エナジースタンド",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/nzap85.png?v=1787221047",
             "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kyubanbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tripletornado.png?v=1787221047"
-          },
-          {
-            "weapon": ".52ガロン",
-            "win_rate": 48.23,
-            "samples": 593,
-            "delta": -1.61,
-            "category": "シューター",
-            "sub": "スプラッシュシールド",
-            "special": "メガホンレーザー5.1ch",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/52gal.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashshield.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/megaphone51.png?v=1787221047"
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/energystand.png?v=1787221047"
           },
           {
             "weapon": "スプラマニューバー",
-            "win_rate": 48.04,
-            "samples": 102,
-            "delta": -4.97,
+            "win_rate": 48.57,
+            "samples": 105,
+            "delta": -4.44,
             "category": "マニューバー",
             "sub": "キューバンボム",
             "special": "カニタンク",
@@ -1395,22 +1408,10 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kanitank.png?v=1787221047"
           },
           {
-            "weapon": "カーボンローラーデコ",
-            "win_rate": 48.0,
-            "samples": 250,
-            "delta": -4.06,
-            "category": "ローラー",
-            "sub": "クイックボム",
-            "special": "ウルトラショット",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Rollers/carbon_deco.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/quickbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrashot.png?v=1787221047"
-          },
-          {
             "weapon": "ホクサイ・ヒュー",
-            "win_rate": 47.71,
-            "samples": 109,
-            "delta": -3.94,
+            "win_rate": 48.18,
+            "samples": 110,
+            "delta": -3.46,
             "category": "フデ",
             "sub": "ジャンプビーコン",
             "special": "アメフラシ",
@@ -1420,9 +1421,9 @@
           },
           {
             "weapon": "プロモデラーRG",
-            "win_rate": 47.62,
-            "samples": 105,
-            "delta": 2.79,
+            "win_rate": 48.11,
+            "samples": 106,
+            "delta": 3.29,
             "category": "シューター",
             "sub": "スプリンクラー",
             "special": "ナイスダマ",
@@ -1431,10 +1432,34 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/nicedama.png?v=1787221047"
           },
           {
+            "weapon": "カーボンローラーデコ",
+            "win_rate": 48.05,
+            "samples": 256,
+            "delta": -4.02,
+            "category": "ローラー",
+            "sub": "クイックボム",
+            "special": "ウルトラショット",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Rollers/carbon_deco.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/quickbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrashot.png?v=1787221047"
+          },
+          {
+            "weapon": ".52ガロン",
+            "win_rate": 47.67,
+            "samples": 600,
+            "delta": -2.17,
+            "category": "シューター",
+            "sub": "スプラッシュシールド",
+            "special": "メガホンレーザー5.1ch",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/52gal.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashshield.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/megaphone51.png?v=1787221047"
+          },
+          {
             "weapon": "わかばシューター",
-            "win_rate": 47.34,
-            "samples": 376,
-            "delta": -2.72,
+            "win_rate": 47.49,
+            "samples": 379,
+            "delta": -2.56,
             "category": "シューター",
             "sub": "スプラッシュボム",
             "special": "グレートバリア",
@@ -1443,10 +1468,22 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/greatbarrier.png?v=1787221047"
           },
           {
+            "weapon": "シャープマーカーネオ",
+            "win_rate": 47.46,
+            "samples": 118,
+            "delta": -0.16,
+            "category": "シューター",
+            "sub": "キューバンボム",
+            "special": "トリプルトルネード",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/sharp_neo.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kyubanbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/tripletornado.png?v=1787221047"
+          },
+          {
             "weapon": "ホットブラスター",
-            "win_rate": 47.06,
-            "samples": 136,
-            "delta": -7.92,
+            "win_rate": 46.72,
+            "samples": 137,
+            "delta": -8.27,
             "category": "ブラスター",
             "sub": "ロボットボム",
             "special": "グレートバリア",
@@ -1456,9 +1493,9 @@
           },
           {
             "weapon": "リッター4K",
-            "win_rate": 46.77,
-            "samples": 372,
-            "delta": -1.75,
+            "win_rate": 46.7,
+            "samples": 379,
+            "delta": -1.83,
             "category": "チャージャー",
             "sub": "トラップ",
             "special": "ホップソナー",
@@ -1468,9 +1505,9 @@
           },
           {
             "weapon": "ボールドマーカー",
-            "win_rate": 45.97,
-            "samples": 124,
-            "delta": -7.57,
+            "win_rate": 46.46,
+            "samples": 127,
+            "delta": -7.08,
             "category": "シューター",
             "sub": "カーリングボム",
             "special": "ウルトラハンコ",
@@ -1480,9 +1517,9 @@
           },
           {
             "weapon": "プライムシューターコラボ",
-            "win_rate": 43.18,
-            "samples": 176,
-            "delta": -7.7,
+            "win_rate": 44.44,
+            "samples": 180,
+            "delta": -6.44,
             "category": "シューター",
             "sub": "キューバンボム",
             "special": "ナイスダマ",
@@ -1492,9 +1529,9 @@
           },
           {
             "weapon": "バレルスピナー",
-            "win_rate": 42.98,
-            "samples": 114,
-            "delta": -7.98,
+            "win_rate": 43.97,
+            "samples": 116,
+            "delta": -7.0,
             "category": "スピナー",
             "sub": "スプリンクラー",
             "special": "ホップソナー",
@@ -1504,9 +1541,9 @@
           },
           {
             "weapon": "トライストリンガー",
-            "win_rate": 39.13,
-            "samples": 138,
-            "delta": -7.84,
+            "win_rate": 40.0,
+            "samples": 140,
+            "delta": -6.98,
             "category": "ストリンガー",
             "sub": "ポイズンミスト",
             "special": "メガホンレーザー5.1ch",
@@ -1530,9 +1567,9 @@
         "hoko": [
           {
             "weapon": "ダイナモローラー",
-            "win_rate": 58.62,
-            "samples": 116,
-            "delta": 8.01,
+            "win_rate": 58.12,
+            "samples": 117,
+            "delta": 7.51,
             "category": "ローラー",
             "sub": "スプリンクラー",
             "special": "エナジースタンド",
@@ -1542,9 +1579,9 @@
           },
           {
             "weapon": "スプラシューター",
-            "win_rate": 55.72,
-            "samples": 271,
-            "delta": 5.46,
+            "win_rate": 56.52,
+            "samples": 276,
+            "delta": 6.26,
             "category": "シューター",
             "sub": "キューバンボム",
             "special": "ウルトラショット",
@@ -1566,9 +1603,9 @@
           },
           {
             "weapon": ".52ガロン",
-            "win_rate": 51.9,
-            "samples": 422,
-            "delta": 2.87,
+            "win_rate": 51.76,
+            "samples": 425,
+            "delta": 2.74,
             "category": "シューター",
             "sub": "スプラッシュシールド",
             "special": "メガホンレーザー5.1ch",
@@ -1602,8 +1639,8 @@
           },
           {
             "weapon": "ボールドマーカー",
-            "win_rate": 50.28,
-            "samples": 181,
+            "win_rate": 50.27,
+            "samples": 185,
             "delta": -1.13,
             "category": "シューター",
             "sub": "カーリングボム",
@@ -1626,9 +1663,9 @@
           },
           {
             "weapon": "ホットブラスターカスタム",
-            "win_rate": 48.25,
-            "samples": 143,
-            "delta": -3.31,
+            "win_rate": 48.98,
+            "samples": 147,
+            "delta": -2.58,
             "category": "ブラスター",
             "sub": "ポイントセンサー",
             "special": "ウルトラチャクチ",
@@ -1638,9 +1675,9 @@
           },
           {
             "weapon": "スプラマニューバーコラボ",
-            "win_rate": 48.22,
-            "samples": 197,
-            "delta": -1.5,
+            "win_rate": 48.24,
+            "samples": 199,
+            "delta": -1.48,
             "category": "マニューバー",
             "sub": "カーリングボム",
             "special": "ウルトラチャクチ",
@@ -1650,9 +1687,9 @@
           },
           {
             "weapon": "ノヴァブラスターネオ",
-            "win_rate": 48.04,
-            "samples": 102,
-            "delta": -3.62,
+            "win_rate": 47.57,
+            "samples": 103,
+            "delta": -4.09,
             "category": "ブラスター",
             "sub": "タンサンボム",
             "special": "ウルトラハンコ",
@@ -1662,9 +1699,9 @@
           },
           {
             "weapon": "オーバーフロッシャー",
-            "win_rate": 47.52,
-            "samples": 141,
-            "delta": -1.98,
+            "win_rate": 47.18,
+            "samples": 142,
+            "delta": -2.32,
             "category": "スロッシャー",
             "sub": "スプリンクラー",
             "special": "アメフラシ",
@@ -1674,9 +1711,9 @@
           },
           {
             "weapon": "スプラシューターコラボ",
-            "win_rate": 45.96,
-            "samples": 161,
-            "delta": -1.03,
+            "win_rate": 46.06,
+            "samples": 165,
+            "delta": -0.93,
             "category": "シューター",
             "sub": "スプラッシュボム",
             "special": "トリプルトルネード",
@@ -1686,9 +1723,9 @@
           },
           {
             "weapon": "カーボンローラーデコ",
-            "win_rate": 41.88,
-            "samples": 160,
-            "delta": -11.76,
+            "win_rate": 41.36,
+            "samples": 162,
+            "delta": -12.28,
             "category": "ローラー",
             "sub": "クイックボム",
             "special": "ウルトラショット",
@@ -1710,9 +1747,9 @@
           },
           {
             "weapon": "わかばシューター",
-            "win_rate": 40.0,
-            "samples": 105,
-            "delta": -9.08,
+            "win_rate": 40.19,
+            "samples": 107,
+            "delta": -8.89,
             "category": "シューター",
             "sub": "スプラッシュボム",
             "special": "グレートバリア",
@@ -1724,9 +1761,9 @@
         "asari": [
           {
             "weapon": "スプラローラー",
-            "win_rate": 56.07,
-            "samples": 107,
-            "delta": 6.07,
+            "win_rate": 56.88,
+            "samples": 109,
+            "delta": 6.88,
             "category": "ローラー",
             "sub": "カーリングボム",
             "special": "グレートバリア",
@@ -1736,9 +1773,9 @@
           },
           {
             "weapon": "ボールドマーカー",
-            "win_rate": 52.87,
-            "samples": 157,
-            "delta": 2.92,
+            "win_rate": 52.83,
+            "samples": 159,
+            "delta": 2.88,
             "category": "シューター",
             "sub": "カーリングボム",
             "special": "ウルトラハンコ",
@@ -1747,22 +1784,10 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrahanko.png?v=1787221047"
           },
           {
-            "weapon": "ダイナモローラー",
-            "win_rate": 52.76,
-            "samples": 127,
-            "delta": 2.21,
-            "category": "ローラー",
-            "sub": "スプリンクラー",
-            "special": "エナジースタンド",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Rollers/dynamo.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/energystand.png?v=1787221047"
-          },
-          {
             "weapon": "スプラマニューバーコラボ",
-            "win_rate": 52.38,
-            "samples": 105,
-            "delta": 0.06,
+            "win_rate": 52.83,
+            "samples": 106,
+            "delta": 0.51,
             "category": "マニューバー",
             "sub": "カーリングボム",
             "special": "ウルトラチャクチ",
@@ -1771,9 +1796,21 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultra_chakuchi.png?v=1787221047"
           },
           {
+            "weapon": "ダイナモローラー",
+            "win_rate": 52.34,
+            "samples": 128,
+            "delta": 1.8,
+            "category": "ローラー",
+            "sub": "スプリンクラー",
+            "special": "エナジースタンド",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Rollers/dynamo.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/energystand.png?v=1787221047"
+          },
+          {
             "weapon": "スプラシューター",
             "win_rate": 50.64,
-            "samples": 233,
+            "samples": 235,
             "delta": 1.03,
             "category": "シューター",
             "sub": "キューバンボム",
@@ -1784,9 +1821,9 @@
           },
           {
             "weapon": "パブロ",
-            "win_rate": 50.42,
-            "samples": 119,
-            "delta": 0.9,
+            "win_rate": 49.59,
+            "samples": 121,
+            "delta": 0.07,
             "category": "フデ",
             "sub": "スプラッシュボム",
             "special": "メガホンレーザー5.1ch",
@@ -1796,9 +1833,9 @@
           },
           {
             "weapon": "わかばシューター",
-            "win_rate": 48.82,
-            "samples": 127,
-            "delta": -1.09,
+            "win_rate": 48.85,
+            "samples": 131,
+            "delta": -1.05,
             "category": "シューター",
             "sub": "スプラッシュボム",
             "special": "グレートバリア",
@@ -1808,27 +1845,15 @@
           },
           {
             "weapon": ".52ガロン",
-            "win_rate": 48.57,
-            "samples": 315,
-            "delta": -2.15,
+            "win_rate": 48.26,
+            "samples": 317,
+            "delta": -2.45,
             "category": "シューター",
             "sub": "スプラッシュシールド",
             "special": "メガホンレーザー5.1ch",
             "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/52gal.png?v=1787221047",
             "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashshield.png?v=1787221047",
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/megaphone51.png?v=1787221047"
-          },
-          {
-            "weapon": "カーボンローラーデコ",
-            "win_rate": 48.44,
-            "samples": 128,
-            "delta": 1.8,
-            "category": "ローラー",
-            "sub": "クイックボム",
-            "special": "ウルトラショット",
-            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Rollers/carbon_deco.png?v=1787221047",
-            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/quickbomb.png?v=1787221047",
-            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrashot.png?v=1787221047"
           },
           {
             "weapon": "スパッタリー・ヒュー",
@@ -1843,10 +1868,22 @@
             "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sameride.png?v=1787221047"
           },
           {
+            "weapon": "カーボンローラーデコ",
+            "win_rate": 48.06,
+            "samples": 129,
+            "delta": 1.42,
+            "category": "ローラー",
+            "sub": "クイックボム",
+            "special": "ウルトラショット",
+            "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Rollers/carbon_deco.png?v=1787221047",
+            "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/quickbomb.png?v=1787221047",
+            "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrashot.png?v=1787221047"
+          },
+          {
             "weapon": "ホットブラスターカスタム",
-            "win_rate": 47.9,
-            "samples": 119,
-            "delta": -0.75,
+            "win_rate": 47.93,
+            "samples": 121,
+            "delta": -0.71,
             "category": "ブラスター",
             "sub": "ポイントセンサー",
             "special": "ウルトラチャクチ",
@@ -1856,9 +1893,9 @@
           },
           {
             "weapon": "N-ZAP85",
-            "win_rate": 47.01,
-            "samples": 134,
-            "delta": -3.95,
+            "win_rate": 46.67,
+            "samples": 135,
+            "delta": -4.3,
             "category": "シューター",
             "sub": "キューバンボム",
             "special": "エナジースタンド",
@@ -1868,9 +1905,9 @@
           },
           {
             "weapon": "スプラシューターコラボ",
-            "win_rate": 43.03,
-            "samples": 165,
-            "delta": -4.13,
+            "win_rate": 43.1,
+            "samples": 174,
+            "delta": -4.06,
             "category": "シューター",
             "sub": "スプラッシュボム",
             "special": "トリプルトルネード",
@@ -1886,9 +1923,9 @@
     "risers": [
       {
         "weapon": "スパッタリー・ヒュー",
-        "win_rate": 55.88,
-        "samples": 306,
-        "delta": 3.61,
+        "win_rate": 55.7,
+        "samples": 316,
+        "delta": 3.42,
         "category": "マニューバー",
         "sub": "トーピード",
         "special": "サメライド",
@@ -1899,9 +1936,9 @@
       },
       {
         "weapon": "ホットブラスターカスタム",
-        "win_rate": 51.92,
-        "samples": 312,
-        "delta": 1.51,
+        "win_rate": 51.85,
+        "samples": 324,
+        "delta": 1.44,
         "category": "ブラスター",
         "sub": "ポイントセンサー",
         "special": "ウルトラチャクチ",
@@ -1911,24 +1948,24 @@
         "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultra_chakuchi.png?v=1787221047"
       },
       {
-        "weapon": "わかばシューター",
-        "win_rate": 50.15,
-        "samples": 343,
-        "delta": 0.19,
-        "category": "シューター",
-        "sub": "スプラッシュボム",
-        "special": "グレートバリア",
-        "best_rule": "ガチエリア",
-        "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/wakaba.png?v=1787221047",
-        "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/splashbomb.png?v=1787221047",
-        "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/greatbarrier.png?v=1787221047"
+        "weapon": "リッター4K",
+        "win_rate": 49.24,
+        "samples": 327,
+        "delta": -0.36,
+        "category": "チャージャー",
+        "sub": "トラップ",
+        "special": "ホップソナー",
+        "best_rule": "ガチヤグラ",
+        "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Chargers/liter4k.png?v=1787221047",
+        "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/trap.png?v=1787221047",
+        "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/hopsonar.png?v=1787221047"
       }
     ],
     "fallers": [
       {
         "weapon": "ダイナモローラー",
-        "win_rate": 49.87,
-        "samples": 393,
+        "win_rate": 49.88,
+        "samples": 407,
         "delta": -3.1,
         "category": "ローラー",
         "sub": "スプリンクラー",
@@ -1939,23 +1976,10 @@
         "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/energystand.png?v=1787221047"
       },
       {
-        "weapon": "スプラシューター",
-        "win_rate": 48.76,
-        "samples": 605,
-        "delta": -2.03,
-        "category": "シューター",
-        "sub": "キューバンボム",
-        "special": "ウルトラショット",
-        "best_rule": "ガチヤグラ",
-        "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/sshooter.png?v=1787221047",
-        "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kyubanbomb.png?v=1787221047",
-        "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrashot.png?v=1787221047"
-      },
-      {
         "weapon": "N-ZAP85",
-        "win_rate": 47.22,
-        "samples": 396,
-        "delta": -1.7,
+        "win_rate": 47.28,
+        "samples": 404,
+        "delta": -1.65,
         "category": "シューター",
         "sub": "キューバンボム",
         "special": "エナジースタンド",
@@ -1963,14 +1987,27 @@
         "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/nzap85.png?v=1787221047",
         "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kyubanbomb.png?v=1787221047",
         "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/energystand.png?v=1787221047"
+      },
+      {
+        "weapon": "スプラシューター",
+        "win_rate": 49.2,
+        "samples": 628,
+        "delta": -1.59,
+        "category": "シューター",
+        "sub": "キューバンボム",
+        "special": "ウルトラショット",
+        "best_rule": "ガチヤグラ",
+        "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/sshooter.png?v=1787221047",
+        "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kyubanbomb.png?v=1787221047",
+        "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrashot.png?v=1787221047"
       }
     ],
     "most_used": [
       {
         "weapon": ".52ガロン",
-        "win_rate": 50.21,
-        "samples": 727,
-        "delta": -1.17,
+        "win_rate": 50.4,
+        "samples": 752,
+        "delta": -0.97,
         "category": "シューター",
         "sub": "スプラッシュシールド",
         "special": "メガホンレーザー5.1ch",
@@ -1981,9 +2018,9 @@
       },
       {
         "weapon": "スプラシューター",
-        "win_rate": 48.76,
-        "samples": 605,
-        "delta": -2.03,
+        "win_rate": 49.2,
+        "samples": 628,
+        "delta": -1.59,
         "category": "シューター",
         "sub": "キューバンボム",
         "special": "ウルトラショット",
@@ -1993,16 +2030,16 @@
         "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/ultrashot.png?v=1787221047"
       },
       {
-        "weapon": "N-ZAP85",
-        "win_rate": 47.22,
-        "samples": 396,
-        "delta": -1.7,
-        "category": "シューター",
-        "sub": "キューバンボム",
+        "weapon": "ダイナモローラー",
+        "win_rate": 49.88,
+        "samples": 407,
+        "delta": -3.1,
+        "category": "ローラー",
+        "sub": "スプリンクラー",
         "special": "エナジースタンド",
         "best_rule": "ガチエリア",
-        "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Shooters/nzap85.png?v=1787221047",
-        "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/kyubanbomb.png?v=1787221047",
+        "image": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/jrku52xa/Rollers/dynamo.png?v=1787221047",
+        "sub_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/sprinkler.png?v=1787221047",
         "special_img": "https://stat.ink/assets/mj7rhdxmqlysloirkqihd6c3xspnkuug/txjyqbz6/energystand.png?v=1787221047"
       }
     ]
@@ -2011,182 +2048,189 @@
     "category": [
       {
         "name": "マニューバー",
-        "avg_win": 55.88,
+        "avg_win": 55.7,
         "count": 1,
         "top_weapon": "スパッタリー・ヒュー",
-        "top_win": 55.88
+        "top_win": 55.7
       },
       {
         "name": "ローラー",
-        "avg_win": 51.29,
+        "avg_win": 51.17,
         "count": 2,
         "top_weapon": "カーボンローラーデコ",
-        "top_win": 53.74
-      },
-      {
-        "name": "ブラスター",
-        "avg_win": 49.37,
-        "count": 2,
-        "top_weapon": "ホットブラスターカスタム",
-        "top_win": 51.92
-      },
-      {
-        "name": "チャージャー",
-        "avg_win": 49.36,
-        "count": 1,
-        "top_weapon": "リッター4K",
-        "top_win": 49.36
+        "top_win": 53.39
       },
       {
         "name": "シューター",
-        "avg_win": 49.32,
-        "count": 5,
-        "top_weapon": ".52ガロン",
-        "top_win": 50.21
+        "avg_win": 50.02,
+        "count": 6,
+        "top_weapon": "ボールドマーカー",
+        "top_win": 58.91
+      },
+      {
+        "name": "ブラスター",
+        "avg_win": 49.74,
+        "count": 2,
+        "top_weapon": "ホットブラスターカスタム",
+        "top_win": 51.85
+      },
+      {
+        "name": "チャージャー",
+        "avg_win": 49.24,
+        "count": 1,
+        "top_weapon": "リッター4K",
+        "top_win": 49.24
       },
       {
         "name": "スロッシャー",
-        "avg_win": 46.32,
+        "avg_win": 46.64,
         "count": 1,
         "top_weapon": "オーバーフロッシャー",
-        "top_win": 46.32
+        "top_win": 46.64
       }
     ],
     "sub": [
       {
+        "name": "カーリングボム",
+        "avg_win": 58.91,
+        "count": 1,
+        "top_weapon": "ボールドマーカー",
+        "top_win": 58.91
+      },
+      {
         "name": "トーピード",
-        "avg_win": 55.88,
+        "avg_win": 55.7,
         "count": 1,
         "top_weapon": "スパッタリー・ヒュー",
-        "top_win": 55.88
+        "top_win": 55.7
       },
       {
         "name": "クイックボム",
-        "avg_win": 53.74,
+        "avg_win": 53.39,
         "count": 1,
         "top_weapon": "カーボンローラーデコ",
-        "top_win": 53.74
+        "top_win": 53.39
       },
       {
         "name": "ポイントセンサー",
-        "avg_win": 51.92,
+        "avg_win": 51.85,
         "count": 1,
         "top_weapon": "ホットブラスターカスタム",
-        "top_win": 51.92
+        "top_win": 51.85
       },
       {
         "name": "スプラッシュシールド",
-        "avg_win": 50.21,
+        "avg_win": 50.4,
         "count": 1,
         "top_weapon": ".52ガロン",
-        "top_win": 50.21
+        "top_win": 50.4
       },
       {
         "name": "スプラッシュボム",
-        "avg_win": 50.16,
+        "avg_win": 49.31,
         "count": 2,
         "top_weapon": "スプラシューターコラボ",
-        "top_win": 50.18
+        "top_win": 49.32
       },
       {
         "name": "トラップ",
-        "avg_win": 49.36,
+        "avg_win": 49.24,
         "count": 1,
         "top_weapon": "リッター4K",
-        "top_win": 49.36
+        "top_win": 49.24
       },
       {
         "name": "スプリンクラー",
-        "avg_win": 48.56,
+        "avg_win": 48.68,
         "count": 2,
         "top_weapon": "ダイナモローラー",
-        "top_win": 49.87
+        "top_win": 49.88
       },
       {
         "name": "キューバンボム",
-        "avg_win": 48.15,
+        "avg_win": 48.45,
         "count": 2,
         "top_weapon": "スプラシューター",
-        "top_win": 48.76
+        "top_win": 49.2
       },
       {
         "name": "タンサンボム",
-        "avg_win": 46.09,
+        "avg_win": 47.04,
         "count": 1,
         "top_weapon": "ノヴァブラスターネオ",
-        "top_win": 46.09
+        "top_win": 47.04
       }
     ],
     "special": [
       {
         "name": "サメライド",
-        "avg_win": 55.88,
+        "avg_win": 55.7,
         "count": 1,
         "top_weapon": "スパッタリー・ヒュー",
-        "top_win": 55.88
-      },
-      {
-        "name": "ウルトラチャクチ",
-        "avg_win": 51.92,
-        "count": 1,
-        "top_weapon": "ホットブラスターカスタム",
-        "top_win": 51.92
-      },
-      {
-        "name": "メガホンレーザー5.1ch",
-        "avg_win": 50.21,
-        "count": 1,
-        "top_weapon": ".52ガロン",
-        "top_win": 50.21
-      },
-      {
-        "name": "トリプルトルネード",
-        "avg_win": 50.18,
-        "count": 1,
-        "top_weapon": "スプラシューターコラボ",
-        "top_win": 50.18
-      },
-      {
-        "name": "グレートバリア",
-        "avg_win": 50.15,
-        "count": 1,
-        "top_weapon": "わかばシューター",
-        "top_win": 50.15
-      },
-      {
-        "name": "ウルトラショット",
-        "avg_win": 50.12,
-        "count": 2,
-        "top_weapon": "カーボンローラーデコ",
-        "top_win": 53.74
-      },
-      {
-        "name": "ホップソナー",
-        "avg_win": 49.36,
-        "count": 1,
-        "top_weapon": "リッター4K",
-        "top_win": 49.36
-      },
-      {
-        "name": "エナジースタンド",
-        "avg_win": 48.54,
-        "count": 2,
-        "top_weapon": "ダイナモローラー",
-        "top_win": 49.87
-      },
-      {
-        "name": "アメフラシ",
-        "avg_win": 46.32,
-        "count": 1,
-        "top_weapon": "オーバーフロッシャー",
-        "top_win": 46.32
+        "top_win": 55.7
       },
       {
         "name": "ウルトラハンコ",
-        "avg_win": 46.09,
+        "avg_win": 52.31,
+        "count": 2,
+        "top_weapon": "ボールドマーカー",
+        "top_win": 58.91
+      },
+      {
+        "name": "ウルトラチャクチ",
+        "avg_win": 51.85,
         "count": 1,
-        "top_weapon": "ノヴァブラスターネオ",
-        "top_win": 46.09
+        "top_weapon": "ホットブラスターカスタム",
+        "top_win": 51.85
+      },
+      {
+        "name": "メガホンレーザー5.1ch",
+        "avg_win": 50.4,
+        "count": 1,
+        "top_weapon": ".52ガロン",
+        "top_win": 50.4
+      },
+      {
+        "name": "ウルトラショット",
+        "avg_win": 50.35,
+        "count": 2,
+        "top_weapon": "カーボンローラーデコ",
+        "top_win": 53.39
+      },
+      {
+        "name": "トリプルトルネード",
+        "avg_win": 49.32,
+        "count": 1,
+        "top_weapon": "スプラシューターコラボ",
+        "top_win": 49.32
+      },
+      {
+        "name": "グレートバリア",
+        "avg_win": 49.3,
+        "count": 1,
+        "top_weapon": "わかばシューター",
+        "top_win": 49.3
+      },
+      {
+        "name": "ホップソナー",
+        "avg_win": 49.24,
+        "count": 1,
+        "top_weapon": "リッター4K",
+        "top_win": 49.24
+      },
+      {
+        "name": "エナジースタンド",
+        "avg_win": 48.58,
+        "count": 2,
+        "top_weapon": "ダイナモローラー",
+        "top_win": 49.88
+      },
+      {
+        "name": "アメフラシ",
+        "avg_win": 46.64,
+        "count": 1,
+        "top_weapon": "オーバーフロッシャー",
+        "top_win": 46.64
       }
     ]
   },
